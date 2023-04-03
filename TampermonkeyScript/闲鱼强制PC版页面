@@ -13,7 +13,7 @@
 let xianyuMobileObj = {
 	init () {
 		let curr_href = location.href;
-        let cat_arr = /id=(\d+)&/.exec(curr_href);
+        let cat_arr = /id=(\d+)/.exec(curr_href);
         if (cat_arr == null) {
 			console.log('log: detail info id not found.');
 			return;
