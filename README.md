@@ -1,2 +1,2 @@
-# awesome-BrowserExtensions
-Collecting awesome browser extensions
+# awesome-BrowserRelated
+Collecting awesome browser-related, such as extensions, scripts
