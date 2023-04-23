@@ -12,7 +12,6 @@ Any comments, suggestions? [Let us know!](https://github.com/xiang0731/awesome-B
 * [Simple Allow Copy](https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc/related?hl=zh-CN) - Enable copy and right-click on sites that blocked them.
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - It allows its users to customize and enhance the functionality of the web pages.
 * [Web Clipper](https://chrome.google.com/webstore/detail/web-clipper/mhfbofiokmppgdliakminbgdgcmbhbac) - Universal open source web clipper.
-* 
 
 ### Tampermonkey Scripts
 * [闲鱼强制PC版界面](https://github.com/xiang0731/awesome-BrowserRelated/blob/main/TampermonkeyScript/%E9%97%B2%E9%B1%BC%E5%BC%BA%E5%88%B6PC%E7%89%88%E9%A1%B5%E9%9D%A2) 
